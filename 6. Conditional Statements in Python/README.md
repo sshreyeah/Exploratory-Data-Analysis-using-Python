@@ -1,15 +1,15 @@
-### **Experiment – 6**
+# **Experiment – 6**
 
 
-### **Title :**
+## **Title :**
 Conditional Statements in Python
 
 
-### **Aim :**
+## **Aim :**
 To study and implement conditional statements in Python and understand decision-making using various conditional constructs.
 
 
-### **Objectives :**
+## **Objectives :**
 To understand the concept of conditional statements
 
 To implement if, if-else, and if-elif-else statements
@@ -19,13 +19,13 @@ To use nested conditional statements
 To apply conditional statements in real-life programming scenarios
 
 
-### **Theory on Conditional Statements :**
+## **Theory on Conditional Statements :**
 Conditional statements in Python are used to make decisions based on certain conditions. These statements allow the program to execute specific blocks of code depending on whether a condition is True or False.
 
 Python uses keywords like if, else, and elif to implement conditional logic. Indentation plays a crucial role in defining the scope of these statements.
 
 
-### **Types of Conditional Statements :**
+## **Types of Conditional Statements :**
 
 if statement
 
@@ -97,7 +97,7 @@ else:
 print("Negative number")
 
 
-### **Applications of Conditional Statements**
+## **Applications of Conditional Statements**
 Decision-making in programs
 
 Validating user input
@@ -109,5 +109,5 @@ Checking eligibility (age, marks, etc.)
 Control flow in real-world applications
 
 
-### **Conclusion :**
+## **Conclusion :**
 Conditional statements form the backbone of decision-making in Python programs. By using if, if-else, elif, and nested conditions, programs can respond intelligently to different situations, making Python powerful and flexible for real-life applications.
