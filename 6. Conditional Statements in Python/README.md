@@ -13,9 +13,11 @@ To use nested conditional statements
 To apply conditional statements in real-life programming scenarios
 
 ## **Theory on Conditional Statements :**
-Conditional statements in Python are used to make decisions based on certain conditions. These statements allow the program to execute specific blocks of code depending on whether a condition is True or False.
+Conditional statements in Python are used to control the flow of a program by making decisions based on whether certain conditions are true or false. They use keywords such as if, elif, and else to execute different blocks of code depending on the outcome of a condition, which is evaluated as a Boolean value (True or False). 
 
-Python uses keywords like if, else, and elif to implement conditional logic. Indentation plays a crucial role in defining the scope of these statements.
+The if statement checks a condition and runs the corresponding code if it is true, while else provides an alternative block if the condition is false, and elif allows multiple conditions to be tested sequentially. 
+
+These statements often use comparison operators like ==, !=, >, <, >=, <= and logical operators such as and, or, and not to form complex conditions. Indentation is essential in Python because it defines the scope and structure of conditional blocks, ensuring the program executes correctly.
 
 ## **Types of Conditional Statements :**
 
