@@ -121,7 +121,3 @@ for i in range(1, 6):
 ## **Conclusion**
 
 Loops are essential in Python programming as they allow repetitive execution of code efficiently. By using `for`, `while`, nested loops, and loop control statements, programmers can solve complex problems in a structured and simplified manner. Mastering loops is fundamental for developing logical and efficient programs.
-
----
-
-If you want, I can also prepare **Experiment – 8 (Functions in Python)** in the same format for your practical file.
